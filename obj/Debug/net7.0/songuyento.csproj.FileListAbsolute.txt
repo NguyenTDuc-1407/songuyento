@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\songuyento\bin\Debug\net7.0\songuyento.exe
+C:\Users\ASUS\Desktop\songuyento\bin\Debug\net7.0\songuyento.deps.json
+C:\Users\ASUS\Desktop\songuyento\bin\Debug\net7.0\songuyento.runtimeconfig.json
+C:\Users\ASUS\Desktop\songuyento\bin\Debug\net7.0\songuyento.dll
+C:\Users\ASUS\Desktop\songuyento\bin\Debug\net7.0\songuyento.pdb
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.dll
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\refint\songuyento.dll
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.pdb
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\songuyento.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\songuyento\obj\Debug\net7.0\ref\songuyento.dll
